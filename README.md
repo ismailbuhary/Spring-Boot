@@ -1,11 +1,10 @@
-# Spring-Boot
+# <h1>Spring-Boot</h1>
+<p>
+>Spring Boot with Maven and Spring IO Platform for dependency management</br>
+>Web application (WAR) packaging as well as self-contained JAR</br>
+>Thymeleaf with Java 8 </br>
+>WebJars </br>
+>Maven Wrapper included</br>
+</p>
 
->Spring Boot with Maven and Spring IO Platform for dependency management
->Web application (WAR) packaging as well as self-contained JAR
->Thymeleaf with Java 8 
->WebJars
->Maven Wrapper included
 
-<h1>Prerequisites<h2>
-JDK 8 and JAVA_HOME environment variable set
-Use IntelliJ IDE to load the project.
